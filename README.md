@@ -1,4 +1,4 @@
-## olá! eu sou o Patrick Duarte.
+## Olá! eu sou o Patrick Duarte.
 
 # 💫 About Me:
 📚 Sou estudante de Front end<br>👯 Estou a procura de uma oportunidade de Estagio<br>💬 e-mail: patrickduartevieira1@gmail.com
